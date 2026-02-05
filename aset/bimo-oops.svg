@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260">
+<rect x="55" y="70" width="150" height="140" rx="34" fill="#4dabf7"/>
+<rect x="75" y="90" width="110" height="70" rx="20" fill="#ffffff"/>
+<text x="130" y="135" font-size="40" text-anchor="middle">😢</text>
+<rect x="90" y="165" width="80" height="12" rx="6" fill="#0f172a" opacity="0.3"/>
+</svg>
